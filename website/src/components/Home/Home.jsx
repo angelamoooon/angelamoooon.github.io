@@ -50,19 +50,18 @@ function Home() {
                     and Mukilteo, Washington</span>.
                     <br />I am currently working as a software engineer at <span className="charcoal">Microsoft </span>
                     and working part-time as a Tasting Room Associate at <span className="charcoal">DeLille Cellars</span>.
-                    Apart from coding, I like to write essays, travel, and hike!
-                    I graduated from Duke University in May 2020 in the middle of the pandemic.
-                    I started my career as a software engineer in my room working remotely for Microsoft.
+                    I graduated from Duke University in May 2020 in the middle of the pandemic and started my career
+                     as a software engineer in my room working remotely for Microsoft.
                     I know how to code in
                     <b className="charcoal"> C++, Java and Python </b>
                         and speak 
                     <b className="charcoal"> English, Korean, and a bit of Spanish. </b>
                 <br />
                 <br />
-                My interest is in  &nbsp;
+                {/* My interest is in  &nbsp;
                     <b className="charcoal">building groundbreaking technologies</b>, 
                     <b className="charcoal"> artificial intelligence</b>, and most of all
-                    <b className="charcoal"> having fun</b>!
+                    <b className="charcoal"> having fun</b>! */}
                     </p>
                 </blockquote>
             </Col>

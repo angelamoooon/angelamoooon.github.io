@@ -9,7 +9,6 @@ function Type() {
           "Software Engineer",
           "Wine Tasting Room Associate",
           "Aspiring Writer",
-          "Coffee Enthusiast",
         ],
         autoStart: true,
         loop: true,

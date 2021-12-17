@@ -13,7 +13,7 @@ function Writing() {
       <Particle />
       <Container>
         <h1 className="project-heading">
-          My <strong className="charcoal">Writing </strong>
+          <strong className="charcoal">My Writing</strong>
         </h1>
         <p style={{ color: "white" }}>
           Here are some of my writing pieces.
@@ -25,7 +25,7 @@ function Writing() {
               isEssay={true}
               title="Programming A Life"
               description="A creative writing essay I wrote in senior year of college that explores career, religion, and the illusion of choice."
-              link="/EssayPage"
+              link='/writing/ProgrammingALife'
             />
           </Col>
 
@@ -35,7 +35,7 @@ function Writing() {
               isEssay={true}
               title="From Peaches to Sausage Links"
               description="A piece about growing up and a tribute to the one constant in my life--my mother."
-              link="/Essays/EssayPage"
+              link=""
             />
           </Col>
 
@@ -49,7 +49,7 @@ function Writing() {
             />
           </Col>
 
-          <Col md={4} className="project-card">
+          {/* <Col md={4} className="project-card">
             <ProjectCard
             //   imgPath={bitsOfCode}
               isEssay={false}
@@ -77,7 +77,7 @@ function Writing() {
               description="New Description"
               link=""
             />
-          </Col>
+          </Col> */}
         </Row>
       </Container>
     </Container>
